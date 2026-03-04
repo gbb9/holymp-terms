@@ -44,8 +44,8 @@ I presenti termini possono essere aggiornati.
 In caso di aggiornamenti sostanziali, puo essere richiesta una nuova accettazione esplicita in-app.
 
 ## 9) Legge applicabile e foro
-Legge applicabile: **[DA_COMPLETARE]**  
-Foro competente: **[DA_COMPLETARE]**
+Legge applicabile: **italiana**  
+Foro competente: **quello previsto dalla normativa applicabile in base alla qualita dell'utente (consumatore/professionista)**
 
 ---
 
