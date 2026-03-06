@@ -119,9 +119,9 @@ Possiamo rimuovere Contenuti Utente o limitarne l'uso se riteniamo (anche in buo
 
 ## 9) Proprietà intellettuale e licenza d'uso
 
-Holymp, i Contenuti e ogni diritto di proprietà intellettuale associato (software, marchi, UI, database, testi, grafiche) sono di titolarità del Fornitore o dei rispettivi licenzianti.
+Holymp, i Contenuti e ogni diritto di proprietà intellettuale associato (software, marchi, UI, database, testi, grafiche) sono di titolarità del Fornitore.
 
-All'Utente è concessa una licenza personale, non esclusiva, non trasferibile, revocabile per usare l'App e il Servizio secondo questi Termini. Ogni uso diverso è vietato.
+All'Utente è concessa una licenza personale, non esclusiva, non trasferibile, revocabile per usare l'App e il Servizio secondo questi Termini. Ogni uso diverso è vietato e perseguibile ai sensi di legge.
 
 ## 10) Funzionalità AI: limiti, avvertenze e verifica
 
@@ -135,7 +135,7 @@ L'Utente riconosce e accetta che:
 
 ## 11) Nessun parere medico e uso a rischio dell'attività fisica
 
-I contenuti, le stime e i suggerimenti del Servizio (inclusi output AI) hanno finalità informative e non sostituiscono il parere di medico, nutrizionista o altro professionista sanitario qualificato.
+I contenuti, le stime e i suggerimenti del Servizio (inclusi output AI o di algoritmi di proprietà del fornitore) hanno finalità informative e non sostituiscono il parere di medico, nutrizionista o altro professionista sanitario qualificato.
 
 In presenza di patologie, gravidanza, infortuni, terapie farmacologiche, sintomi o dubbi clinici, consulta un professionista sanitario prima di seguire indicazioni del Servizio.
 
@@ -219,9 +219,3 @@ Foro competente:
 
 Se una clausola è ritenuta invalida o inefficace, le restanti rimangono valide.  
 Il mancato esercizio di un diritto non costituisce rinuncia.
-
----
-
-## Testo checkbox consigliato (registrazione / primo accesso)
-
-`Dichiaro di aver letto e accettato i Termini d'Uso e il Disclaimer di Holymp (inclusi limiti del servizio, assenza di consulenza medica e limiti delle funzionalità AI).`
