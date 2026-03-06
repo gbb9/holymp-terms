@@ -12,11 +12,9 @@ Utilizzando il Servizio (anche senza registrarti), dichiari di aver letto e comp
 
 Il Servizio è fornito da:
 
-- Fornitore / Titolare del Servizio: **Gabriele Vaccargiu**
-- Sede / indirizzo: **Str. Grassi 14, Parma Vicofertile, Italia**
-- Email supporto: **fitness.privacy.gv@gmail.com**
-- Email legale / termini: **fitness.privacy.gv@gmail.com**
-- Contatto privacy: **fitness.privacy.gv@gmail.com**
+- Fornitore del Servizio: **Gabriele Vaccargiu**
+- Recapito: **Parma, Italia**
+- Email supporto, legale e privacy: **fitness.privacy.gv@gmail.com**
 
 ## 2) Definizioni essenziali
 
@@ -60,14 +58,16 @@ In caso di sospetto accesso non autorizzato, devi contattarci senza ritardo a **
 
 ### 5.3 Sospensione e chiusura
 
-Possiamo sospendere o chiudere l'Account (o limitare l'accesso al Servizio), con o senza preavviso se necessario, in caso di:
+Possiamo sospendere o chiudere l'Account (o limitare l'accesso al Servizio) se ciò è ragionevolmente necessario, in particolare in caso di:
 
 - violazione dei Termini;
 - uso illecito o fraudolento;
 - rischi di sicurezza, abuso tecnico, tentativi di reverse engineering;
-- richieste legittime da autorità o obblighi di legge.
+- richieste legittime da parte delle autorità o obblighi di legge.
 
-Quando ragionevolmente possibile, forniremo comunicazione e indicazioni su eventuali modalità di ripristino.
+Quando possibile, forniremo un preavviso o una comunicazione tempestiva all'Utente, indicando anche eventuali modalità di ripristino dell'accesso.
+
+Possiamo agire senza preavviso solo quando ciò sia necessario, ad esempio per motivi di sicurezza, per prevenire abusi, frodi o danni al Servizio, a terzi o per adempiere a obblighi di legge.
 
 ## 6) Cancellazione dell'Account e dei dati
 
