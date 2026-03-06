@@ -1,7 +1,7 @@
 ﻿# Termini d'Uso e Disclaimer - Holymp
 
 Versione: 1.0
-Data di efficacia / ultimo aggiornamento: 5 marzo 2026
+Ultimo aggiornamento: 5 marzo 2026
 
 Il presente documento ("Termini") disciplina l'uso dell'app Holymp e dei relativi servizi (insieme, il "Servizio").  
 La Privacy Policy è un documento separato e descrive come trattiamo i dati personali: **https://gbb9.github.io/holymp-privacy/**.
