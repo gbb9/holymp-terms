@@ -1,6 +1,6 @@
 ﻿# Termini d'Uso e Disclaimer - Holymp
 
-Versione: 1.0 (finale)  
+Versione: 1.0
 Data di efficacia / ultimo aggiornamento: 5 marzo 2026
 
 Il presente documento ("Termini") disciplina l'uso dell'app Holymp e dei relativi servizi (insieme, il "Servizio").  
