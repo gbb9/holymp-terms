@@ -1,7 +1,7 @@
 # Termini d'Uso e Disclaimer - Holymp
 
-Versione: 1.0  
-Data di efficacia / ultimo aggiornamento: 15 giugno 2026
+Versione: 1.1<br />
+Data di efficacia / ultimo aggiornamento: 9 luglio 2026
 
 Il presente documento ("Termini") disciplina l'uso dell'app Holymp e dei relativi servizi (insieme, il "Servizio").  
 La Privacy Policy e' un documento separato e descrive come trattiamo i dati personali: **https://gbb9.github.io/holymp-privacy/it/**.
@@ -164,18 +164,33 @@ Possiamo aggiornare l'App per:
 - correggere bug;
 - adeguarci a requisiti tecnici e policy di store/terze parti.
 
-## 14) Pagamenti, abbonamenti e funzionalita' Premium
+## 14) Pagamenti, abbonamenti, crediti Coach IA e funzionalità Premium
 
-Alcune funzionalita' Premium possono essere non attive, disponibili solo per determinati account, o soggette a configurazioni tecniche e di store.
+Alcune funzionalità Premium possono essere non attive, disponibili solo per determinati account, o soggette a configurazioni tecniche e di store.
 
-Se e quando vengono introdotti acquisti in-app o abbonamenti:
+Holymp può offrire:
 
-- i pagamenti su Android sono gestiti tramite Google Play Billing, salvo diversa indicazione;
-- gli abbonamenti possono essere ricorrenti con rinnovo automatico fino a disdetta;
-- l'Utente puo' gestire o cancellare il rinnovo dalle impostazioni del proprio account Google Play;
-- eventuali rimborsi sono gestiti secondo le regole e le procedure del relativo store.
+- abbonamenti Premium, con rinnovo automatico fino a disdetta;
+- crediti Coach IA acquistabili una tantum;
+- eventuali crediti inclusi nel Premium, secondo quanto indicato nell’app o nel flusso di acquisto.
 
-Le condizioni economiche, inclusi prezzo, durata, periodicita' e prova gratuita se prevista, sono mostrate prima dell'acquisto e nelle schermate del flusso di pagamento.
+I crediti Coach IA sono consumabili: una volta usati per la funzionalità prevista, il saldo viene ridotto. Ad esempio, 1 credito consente 1 generazione extra Coach IA, oltre a eventuali crediti inclusi nel Premium.
+
+Su Android, i pagamenti sono gestiti tramite Google Play Billing, salvo diversa indicazione. Prezzo, durata, periodicità, eventuale prova gratuita e condizioni principali sono mostrati prima dell’acquisto e nelle schermate del flusso di pagamento.
+
+L’utente può gestire, annullare o disdire il rinnovo automatico dell’abbonamento dalle impostazioni del proprio account Google Play. Rimborsi, contestazioni e problemi di pagamento sono gestiti secondo le regole e le procedure dello store competente, fatto salvo quanto previsto dalla normativa applicabile.
+
+I crediti Coach IA non sono denaro, non sono convertibili in denaro e non sono trasferibili tra account, salvo obblighi inderogabili di legge o regole dello store applicabili.
+
+### Variazioni dei prezzi
+
+I prezzi di abbonamenti, crediti e altre funzionalità a pagamento possono variare in futuro. Un eventuale prezzo promozionale o di lancio non è garantito a tempo indeterminato.
+
+Per i nuovi acquisti, il prezzo aggiornato sarà mostrato prima del pagamento.
+
+Per abbonamenti già attivi, eventuali aumenti saranno comunicati secondo le regole dello store e la normativa applicabile. Quando previsto dalle regole dello store o dalla normativa applicabile, l’utente potrà non accettare l’aumento, disdire o interrompere il rinnovo prima dell’applicazione del nuovo prezzo.
+
+Se l’accettazione è richiesta e non viene data, l’abbonamento potrà non rinnovarsi o cessare secondo le regole dello store.
 
 ## 15) Diritti inderogabili del consumatore
 

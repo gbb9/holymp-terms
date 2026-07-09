@@ -1,7 +1,7 @@
 # Terms of Use and Disclaimer - Holymp
 
-Version: 1.0  
-Effective date / last updated: June 15, 2026
+Version: 1.1<br />
+Effective date / last updated: July 9, 2026
 
 This document ("Terms") governs use of the Holymp app and related services (together, the "Service").  
 The Privacy Policy is a separate document and describes how we process personal data: **https://gbb9.github.io/holymp-privacy/en/**.
@@ -164,18 +164,33 @@ We may update the App to:
 - fix bugs;
 - comply with technical requirements and store/third-party policies.
 
-## 14) Payments, Subscriptions, and Premium Features
+## 14) Payments, Subscriptions, AI Coach Credits, and Premium Features
 
 Some Premium features may be inactive, available only for certain accounts, or subject to technical and store configurations.
 
-If and when in-app purchases or subscriptions are introduced:
+Holymp may offer:
 
-- payments on Android are managed through Google Play Billing, unless otherwise indicated;
-- subscriptions may be recurring with automatic renewal until cancellation;
-- the User can manage or cancel renewal from their Google Play account settings;
-- any refunds are handled according to the rules and procedures of the relevant store.
+- Premium subscriptions, with automatic renewal until cancellation;
+- one-time purchases of AI Coach credits;
+- any credits included with Premium, as shown in the app or purchase flow.
 
-Economic terms, including price, duration, frequency, and free trial if provided, are shown before purchase and in the payment flow screens.
+AI Coach credits are consumable: once they are used for the intended feature, the balance is reduced. For example, 1 credit allows 1 extra AI Coach generation, in addition to any credits included with Premium.
+
+On Android, payments are handled through Google Play Billing, unless otherwise indicated. Price, duration, billing period, any free trial, and main conditions are shown before purchase and in the payment flow screens.
+
+The user can manage, cancel, or stop automatic subscription renewal from their Google Play account settings. Refunds, disputes, and payment issues are handled according to the rules and procedures of the relevant store, without prejudice to applicable law.
+
+AI Coach credits are not money, cannot be converted into money, and cannot be transferred between accounts, unless mandatory law or applicable store rules require otherwise.
+
+### Price Changes
+
+Prices for subscriptions, credits, and other paid features may change in the future. Any promotional or launch price is not guaranteed indefinitely.
+
+For new purchases, the updated price will be shown before payment.
+
+For active subscriptions, any price increases will be communicated according to store rules and applicable law. Where store rules or applicable law provide for it, the user may decline the increase, cancel, or stop renewal before the new price applies.
+
+If acceptance is required and is not given, the subscription may fail to renew or may end according to store rules.
 
 ## 15) Mandatory Consumer Rights
 
