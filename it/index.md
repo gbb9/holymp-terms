@@ -14,7 +14,8 @@ Il Servizio e' fornito da:
 
 - Fornitore del Servizio: **Gabriele Vaccargiu**
 - Recapito: **Parma, Italia**
-- Email supporto, legale e privacy: **fitness.privacy.gv@gmail.com**
+- Email supporto e informazioni: **info@holymp.app**
+- Email privacy e protezione dati: **privacy@holymp.app**
 
 ## 2) Definizioni essenziali
 
@@ -56,7 +57,7 @@ L'Utente si impegna a:
 ### 5.2 Responsabilita' dell'Utente
 
 Sei responsabile di ogni attivita' svolta tramite il tuo Account e ti impegni a mantenere riservate le credenziali.  
-In caso di sospetto accesso non autorizzato, devi contattarci senza ritardo a **fitness.privacy.gv@gmail.com**.
+In caso di sospetto accesso non autorizzato, devi contattarci senza ritardo a **info@holymp.app**.
 
 L'Utente resta responsabile dell'uso prudente dell'app, della verifica delle informazioni inserite e delle decisioni prese sulla base di riepiloghi, stime, suggerimenti o output generati dal Servizio.
 
