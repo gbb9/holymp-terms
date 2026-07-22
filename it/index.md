@@ -4,7 +4,7 @@ Versione: 1.1<br />
 Data di efficacia / ultimo aggiornamento: 9 luglio 2026
 
 Il presente documento ("Termini") disciplina l'uso dell'app Holymp e dei relativi servizi (insieme, il "Servizio").  
-La Privacy Policy e' un documento separato e descrive come trattiamo i dati personali: **https://gbb9.github.io/holymp-privacy/it/**.
+La Privacy Policy e' un documento separato e descrive come trattiamo i dati personali: **https://privacy.holymp.app/it/**.
 
 Utilizzando il Servizio, anche senza registrarti, dichiari di aver letto e compreso questi Termini. Se non li accetti, non utilizzare Holymp.
 
@@ -84,7 +84,7 @@ Se l'Account e' gestito in-app, Holymp mette a disposizione un percorso di cance
 ### 6.2 Cancellazione via web (richiesta esterna)
 
 E' disponibile anche una pagina web per richiedere cancellazione di Account e dati associati:  
-**https://gbb9.github.io/holymp-privacy/account-deletion/**
+**https://privacy.holymp.app/account-deletion/**
 
 ### 6.3 Cosa viene cancellato e cosa puo' essere conservato
 
@@ -217,7 +217,7 @@ Il Fornitore non e' responsabile per ritardi o inadempimenti dovuti a eventi fuo
 ## 18) Modifiche ai Termini
 
 Possiamo aggiornare questi Termini. La versione vigente e' pubblicata a:  
-**https://gbb9.github.io/holymp-terms/**
+**https://terms.holymp.app/it/**
 
 In caso di modifiche sostanziali:
 
